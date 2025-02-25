@@ -9,6 +9,8 @@ Preferably use vim as your text editor while writing code.
 
 Commit and push the file once you pass all the testcases.
 
+You can find a C++ getting started guide [here](cpp_getting_started.md)
+
 ## People attempting CSES
 - [Vyasa M Nayak](https://github.com/septicalls)
 - [Muhammad Saheed](https://github.com/mainkt)
