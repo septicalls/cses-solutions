@@ -1,0 +1,131 @@
+[
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/number_spiral/linux/x86_64/release/src/introductory_problems/number_spiral.cpp.o", "src/introductory_problems/number_spiral.cpp"],
+  "file": "src/introductory_problems/number_spiral.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/counting_rooms_dfs/linux/x86_64/release/src/graph_algorithms/counting_rooms_dfs.cpp.o", "src/graph_algorithms/counting_rooms_dfs.cpp"],
+  "file": "src/graph_algorithms/counting_rooms_dfs.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/missing_number/linux/x86_64/release/src/introductory_problems/missing_number.cpp.o", "src/introductory_problems/missing_number.cpp"],
+  "file": "src/introductory_problems/missing_number.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/grid_paths/linux/x86_64/release/src/dynamic_programming/grid_paths.cpp.o", "src/dynamic_programming/grid_paths.cpp"],
+  "file": "src/dynamic_programming/grid_paths.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/dice_combinations/linux/x86_64/release/src/dynamic_programming/dice_combinations.cpp.o", "src/dynamic_programming/dice_combinations.cpp"],
+  "file": "src/dynamic_programming/dice_combinations.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/increasing_array/linux/x86_64/release/src/introductory_problems/increasing_array.cpp.o", "src/introductory_problems/increasing_array.cpp"],
+  "file": "src/introductory_problems/increasing_array.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/coin_piles/linux/x86_64/release/src/introductory_problems/coin_piles.cpp.o", "src/introductory_problems/coin_piles.cpp"],
+  "file": "src/introductory_problems/coin_piles.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/permutations/linux/x86_64/release/src/introductory_problems/permutations.cpp.o", "src/introductory_problems/permutations.cpp"],
+  "file": "src/introductory_problems/permutations.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/two_knights/linux/x86_64/release/src/introductory_problems/two_knights.cpp.o", "src/introductory_problems/two_knights.cpp"],
+  "file": "src/introductory_problems/two_knights.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/repetitions/linux/x86_64/release/src/introductory_problems/repetitions.cpp.o", "src/introductory_problems/repetitions.cpp"],
+  "file": "src/introductory_problems/repetitions.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/two_sets/linux/x86_64/release/src/introductory_problems/two_sets.cpp.o", "src/introductory_problems/two_sets.cpp"],
+  "file": "src/introductory_problems/two_sets.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/coin_combinations_ii/linux/x86_64/release/src/dynamic_programming/coin_combinations_ii.cpp.o", "src/dynamic_programming/coin_combinations_ii.cpp"],
+  "file": "src/dynamic_programming/coin_combinations_ii.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/removing_digits/linux/x86_64/release/src/dynamic_programming/removing_digits.cpp.o", "src/dynamic_programming/removing_digits.cpp"],
+  "file": "src/dynamic_programming/removing_digits.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/apple_division/linux/x86_64/release/src/introductory_problems/apple_division.cpp.o", "src/introductory_problems/apple_division.cpp"],
+  "file": "src/introductory_problems/apple_division.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/minimising_coins/linux/x86_64/release/src/dynamic_programming/minimising_coins.cpp.o", "src/dynamic_programming/minimising_coins.cpp"],
+  "file": "src/dynamic_programming/minimising_coins.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/building_roads_union_find/linux/x86_64/release/src/graph_algorithms/building_roads_union_find.cpp.o", "src/graph_algorithms/building_roads_union_find.cpp"],
+  "file": "src/graph_algorithms/building_roads_union_find.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/book_shop/linux/x86_64/release/src/dynamic_programming/book_shop.cpp.o", "src/dynamic_programming/book_shop.cpp"],
+  "file": "src/dynamic_programming/book_shop.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/palindrome_reorder/linux/x86_64/release/src/introductory_problems/palindrome_reorder.cpp.o", "src/introductory_problems/palindrome_reorder.cpp"],
+  "file": "src/introductory_problems/palindrome_reorder.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/word_combinations/linux/x86_64/release/src/string_algorithms/word_combinations.cpp.o", "src/string_algorithms/word_combinations.cpp"],
+  "file": "src/string_algorithms/word_combinations.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/weird_algorithm/linux/x86_64/release/src/introductory_problems/weird_algorithm.cpp.o", "src/introductory_problems/weird_algorithm.cpp"],
+  "file": "src/introductory_problems/weird_algorithm.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/array_description/linux/x86_64/release/src/dynamic_programming/array_description.cpp.o", "src/dynamic_programming/array_description.cpp"],
+  "file": "src/dynamic_programming/array_description.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/trailing_zeros/linux/x86_64/release/src/introductory_problems/trailing_zeros.cpp.o", "src/introductory_problems/trailing_zeros.cpp"],
+  "file": "src/introductory_problems/trailing_zeros.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/coin_combinations_i/linux/x86_64/release/src/dynamic_programming/coin_combinations_i.cpp.o", "src/dynamic_programming/coin_combinations_i.cpp"],
+  "file": "src/dynamic_programming/coin_combinations_i.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/bit_strings/linux/x86_64/release/src/introductory_problems/bit_strings.cpp.o", "src/introductory_problems/bit_strings.cpp"],
+  "file": "src/introductory_problems/bit_strings.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/counting_towers/linux/x86_64/release/src/dynamic_programming/counting_towers.cpp.o", "src/dynamic_programming/counting_towers.cpp"],
+  "file": "src/dynamic_programming/counting_towers.cpp"
+},
+{
+  "directory": "/home/vyasa/Projects/cses-solutions",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-I", "/home/vyasa/.xmake/packages/d/dbg-macro/v0.5.1/636ab0a6a5264017b519bf256ca71867/include", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/labyrinth_a_star/linux/x86_64/release/src/graph_algorithms/labyrinth_a_star.cpp.o", "src/graph_algorithms/labyrinth_a_star.cpp"],
+  "file": "src/graph_algorithms/labyrinth_a_star.cpp"
+}]
