@@ -1,18 +1,7 @@
-# CSES Repository
+# CSES Solutions Repository
 
-Find the problem set [here](https://cses.fi/problemset).
+The [cses problem set](https://cses.fi/problemset) is a collection of 300 competitive coding problems hosted by the Department of Computer Science at [University at Helsinki](https://www.helsinki.fi/en).
 
-Use this template repository and Add it to your Repository. This is to have your solutions hosted on GitHub. Additionally, while starting, after forking the repo, add your name to this README file and send a PR.
-
-Create a new file for each problem in your preferred language and keep the filename as the problem name. You can try out the same problem in different approaches and different languages if you wish to.
-Preferably use vim as your text editor while writing code.
-
-Commit and push the file once you pass all the testcases.
-
-You can find a C++ getting started guide [here](cpp_getting_started.md)
-
-## People attempting CSES
-- [Vyasa M Nayak](https://github.com/septicalls)
+## People attempting CSES at The sceptix club
+- [Vyasa M Nayak](https://github.com/septicalls) <-- That's me 😎
 - [Muhammad Saheed](https://github.com/mainkt)
-
-<!-- To add your name, go to the last name and add it below it in this format [name](github_link) -->
